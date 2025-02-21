@@ -9,9 +9,8 @@
 
 🎯 **Áreas de Interesse:**
 - Desenvolvimento Web
-- Inteligência Artificial
-- Tecnologias Disruptivas
 - Hackathons & Projetos Open Source
+- Infraestrutura
 
 ## 🛠️ Tecnologias & Ferramentas
 

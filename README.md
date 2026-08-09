@@ -19,7 +19,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=IgorFigueiredo28&theme=radical&hide_border=true)
 
 ## 📫 Contato
 

@@ -17,10 +17,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=IgorFigueiredo28&theme=radical&hide_border=true)
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-meneses-figueiredo)

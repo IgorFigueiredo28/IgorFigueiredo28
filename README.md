@@ -30,13 +30,6 @@
 **Desenvolvimento**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Currículo
-
-| | Português | English |
-|---|---|---|
-| **Suporte e Infraestrutura** | [PDF](https://igorfigueiredo28.github.io/curriculo-ats/Curriculo_Igor_Meneses_Figueiredo.pdf) | [PDF](https://igorfigueiredo28.github.io/curriculo-ats/Resume_Igor_Meneses_Figueiredo_EN.pdf) |
-| **Desenvolvimento** | [PDF](https://igorfigueiredo28.github.io/curriculo-ats/Curriculo_Dev_Igor_Meneses_Figueiredo.pdf) | [PDF](https://igorfigueiredo28.github.io/curriculo-ats/Resume_Dev_Igor_Meneses_Figueiredo_EN.pdf) |
-
 ---
 
 <sub>🇺🇸 IT Support Analyst (L1/L2, infrastructure) and full stack developer. See my [portfolio](https://igorfigueiredo28.github.io) — it's available in English too.</sub>
